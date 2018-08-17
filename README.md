@@ -1,6 +1,6 @@
 # dappathon18
 dApp built for dappathon '18
 
-[Remix - solidity](https://remix.ethereum.org/)
+[Remix IDE for solidity](https://remix.ethereum.org/)
 
-[geth](https://geth.ethereum.org/downloads/)
+[Download geth](https://geth.ethereum.org/downloads/)
